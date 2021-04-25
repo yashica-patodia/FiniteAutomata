@@ -7,4 +7,4 @@ This project is used for implementing the untilities of finite automata.It restr
 #### All unreachable states from DFA are removed to get an optimized DFA with less states.
 #### Collapsing each group of equivalent states in DFA to a single state, and generate the resulting final minimized DFA.
 
-### Input and corresponding output files are provided .
+### Input and corresponding output files are provided  in PAEval for testing and debugging.
