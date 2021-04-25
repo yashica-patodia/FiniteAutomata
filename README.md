@@ -1,6 +1,6 @@
 # FiniteAutomata
 
-This project is used for implementing the untilities of finite automata.It restricts only to DFA and NFA and does not deal with epsilon-NFA.
+This project is used for implementing the untilities of finite automata.It restricts only to DFA and NFA and does not deal with epsilon-NFA.It inputs an NFA and find the equivalent  DFA using Myhill-Nerode Theorem.
 
 #### I have used subset construction method to convert the input NFA to an equivalent DFA. 
 #### Then depth first search (DFS) graph traversal algorithm is used  to find out all reachable (or accessible) states in DFA.
